@@ -7,8 +7,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Roshan RK Vashista |
-| **USN** | 1CD22AI047 |
+| **Name** | Ashok Reddy B |
+| **USN** | 1CD22AI005 |
 | **Semester** | 7th |
 | **Department** | Artificial Intelligence and Machine Learning (AIML) |
 | **Subject** | Deep Learning and Reinforcement Learning |
